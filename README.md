@@ -5,7 +5,7 @@
 This screenshot was created using [scrcpy](https://github.com/Genymobile/scrcpy):
 
 <p align="center">
-    <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/ca935a23-76e6-43b9-acb1-2a5d48f21100" />
+    <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/70a78587-bc94-4d42-97c2-e0a2485bce8c" />
 </p>
 
 ```bash
@@ -17,7 +17,7 @@ scrcpy --max-fps=60 --video-bit-rate=16M --video-codec=h265
 Scan the QR code below to run the app directly on your mobile device:
 
 <p align="center">
-    <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/c4fff7b8-223e-4936-9e9c-14dbffc1e253" />
+    <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/0ae35603-076c-4573-8ef5-597ec4d2b40d" />
 </p>
 
 ### Guide
